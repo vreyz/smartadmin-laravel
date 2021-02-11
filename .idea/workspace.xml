@@ -1,7 +1,92 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6158f46c-7bc2-482e-9354-c3ff9395093f" name="Default Changelist" comment="" />
+    <list default="true" id="6158f46c-7bc2-482e-9354-c3ff9395093f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/dataTables.bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Afrikaans.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Albanian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Amharic.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Arabic.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Armenian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Azerbaijan.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Bangla.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Basque.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Belarusian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Bulgarian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Catalan.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Chinese-traditional.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Chinese.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Croatian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Czech.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Danish.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Dutch.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/English.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Estonian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Filipino.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Finnish.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/French.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Galician.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Georgian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/German.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Greek.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Gujarati.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Hebrew.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Hindi.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Hungarian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Icelandic.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Indonesian-Alternative.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Indonesian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Irish.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Italian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Japanese.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Kazakh.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Korean.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Kyrgyz.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Latvian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Lithuanian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Macedonian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Malay.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Mongolian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Nepali.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Norwegian-Bokmal.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Norwegian-Nynorsk.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Pashto.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Persian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Polish.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Portuguese-Brasil.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Portuguese.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Romanian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Russian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Serbian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Sinhala.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Slovak.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Slovenian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Spanish.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Swahili.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Swedish.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Tamil.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Thai.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Turkish.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Ukrainian.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Urdu.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Uzbek.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Vietnamese.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/Welsh.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.19/plugins/i18n/telugu.lang" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.23/jquery.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/assets/dataTables-1.10.23/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/src/DataTable.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/src/DataTableExtension.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../smartadmin-datatables/src/DataTableServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartadmin-datatables/.idea/smartadmin-datatables.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../smartadmin-datatables/.idea/smartadmin-datatables.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../smartadmin-datatables/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../smartadmin-datatables/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +97,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../smartadmin-datatables" />
   </component>
   <component name="ProjectId" id="1oJbC5umVx4hHwOmyrrtJ0oDkZF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -27,9 +112,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../10Webserver/laragon/www/l8/public/vendor/smartadmin-laravel" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\10Webserver\laragon\www\l8\public\vendor\smartadmin-laravel" />
+      <recent name="D:\OneDrive\10Webserver\laragon\www\l8\public\vendor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\OneDrive\10Webserver\laragon\www\l8\public\vendor\smartadmin-laravel" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -39,7 +133,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613007511542</updated>
-      <workItem from="1613007514483" duration="4093000" />
+      <workItem from="1613007514483" duration="7061000" />
     </task>
     <task id="LOCAL-00001" summary="initial">
       <created>1613011683715</created>
@@ -90,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613017706866</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="initial">
+      <created>1613018031109</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613018031109</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -108,6 +209,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial" />
     <option name="LAST_COMMIT_MESSAGE" value="initial" />
