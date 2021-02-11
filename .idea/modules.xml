@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../../12. Laravel-Admin/data-table-master/.idea/data-table-master.iml" filepath="$PROJECT_DIR$/../../12. Laravel-Admin/data-table-master/.idea/data-table-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../10Webserver/laragon/www/l8/.idea/l8.iml" filepath="$PROJECT_DIR$/../../../10Webserver/laragon/www/l8/.idea/l8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../smartadmin-datatables/.idea/smartadmin-datatables.iml" filepath="$PROJECT_DIR$/../smartadmin-datatables/.idea/smartadmin-datatables.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/smartadmin-laravel.iml" filepath="$PROJECT_DIR$/.idea/smartadmin-laravel.iml" />
     </modules>
   </component>
