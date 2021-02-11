@@ -6,7 +6,7 @@ Laravel with SmartAdmin frontend based on Encore/laravel-admin
 First, install laravel, and make sure that the database connection settings are correct.
 
 ```
-composer require vreyz/smartadmin-laravel --dev
+composer require vreyz/smartadmin-laravel dev-master
 ```
 
 ### Then run these commands to publish assets and config：
