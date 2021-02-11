@@ -1,0 +1,219 @@
+/*
+ * It is advised not to edit the smartadmin_production.css
+ * as this will override any changes you make in the
+ * later versions of this theme.
+ *
+ * We advise that you use use this CSS to override
+ * SmartAdmin styles.
+ *
+ * Rename the stylesheet to whatever your liking so it will stay
+ * unique to you with each update of SmartAdmin.
+ */
+
+/*
+ * INDEX
+ *
+ * - HTML
+ * - BODY
+ * - CUSTOM STYLES
+ */
+
+ /*additional css by Aan*/
+/*alert message at login page*/
+div.my-arrow-box   {background:url("img/arrow.png") no-repeat 15px center #ebfab6;border:1px solid #bbcc5b;color:#599847;}
+div.my-alert-box   {background:url("img/alert.png") no-repeat 15px center #fbdd96;border:1px solid #e5af51;color:#ca6b1c;}
+div.my-success-box {background:url("img/check.png") no-repeat 15px center #ebfab6;border:1px solid #bbcc5b;color:#599847;}
+div.my-error-box   {background:url("img/error.png") no-repeat 15px center #fdd2d1;border:1px solid #f6988f;color:#883333;}
+div.my-notice-box  {background:url("img/note.png") no-repeat 15px center #f9ebca;border:1px solid #e5b2ac;color:#9f6722;}
+div.my-info-box    {background:url("img/info.png") no-repeat 15px center #e6ebf0;border:1px solid #89becd;color:#277dce;}
+div.my-box {padding:20px 15px 20px 65px;-moz-border-radius:6px;-webkit-border-radius:6px;border-radius:6px;margin: 5px;}
+
+/*
+set hasil dari autocomplete warnanya hitam
+*/
+a.ui-corner-all, a.ui-menu-item-wrapper {color: #444444;}
+
+/* additional smartform col width */
+.smart-form .col-7{width:58.33%}
+
+/*
+css eventooltips for fullcalendar
+*/
+#event-tooltip {
+    position: absolute;
+    float: auto;
+    width:350px;
+    background: rgba(0, 0, 0, 0.85);
+    color:#FFF;padding:10px;
+    z-index:10001;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+}
+ /* Set Z koordinate jadi diatas semua elemen */
+.clockpicker-popover {
+    z-index: 999999;
+}
+
+/* Buat warna gray di hari sabtu dan minggu pada calendar */
+.fc-sat, .fc-sun {
+    background-color: #e7e7e7 !important;
+}
+
+/*datatables wrap word */
+/*table {table-layout:fixed;}
+   table td {
+        white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+  /*      white-space: -pre-wrap; /* Opera 4-6 */
+  /*      white-space: -o-pre-wrap; /* Opera 7 */
+  /*      word-wrap: break-word; /* Internet Explorer 5.5+ */
+    /*}*/
+
+
+/*Datatables Selected BG Color*/
+table.dataTable tbody tr.selected {
+  background-color: #b0bed9;
+}
+/*Datatables Child Row BG Color*/
+table.dataTable tbody tr.child_row {
+  background-color: #e7e7e7;
+}
+/*datatables Font Size*/
+.dataTables_wrapper td {
+    font-size: 11px;
+}
+/*Datatables processing mark*/
+.dataTables_processing {
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    width: 100%;
+    height: 60px !important;
+    margin-left: -50%;
+    margin-top: -25px;
+    padding-top: 20px;
+    text-align: center;
+    font-size: 1.2em;
+    background-color: grey !important;
+    background: -webkit-gradient(linear, left top, right top, color-stop(0%, rgba(255,255,255,0)), color-stop(25%, rgba(255,255,255,0.9)), color-stop(75%, rgba(255,255,255,0.9)), color-stop(100%, rgba(255,255,255,0)));
+    background: -webkit-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 25%, rgba(255,255,255,0.9) 75%, rgba(255,255,255,0) 100%);
+    background: -moz-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 25%, rgba(255,255,255,0.9) 75%, rgba(255,255,255,0) 100%);
+    background: -ms-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 25%, rgba(255,255,255,0.9) 75%, rgba(255,255,255,0) 100%);
+    background: -o-linear-gradient(left, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 25%, rgba(255,255,255,0.9) 75%, rgba(255,255,255,0) 100%);
+    background: linear-gradient(to right, rgba(255,255,255,0) 0%, rgba(255,255,255,0.9) 25%, rgba(255,255,255,0.9) 75%, rgba(255,255,255,0) 100%);
+}
+
+/*Set Width for Specific Modal dialog*/
+@media screen and (min-width: 768px) {
+.wide .modal-dialog  {width:900px; max-width: 100%}
+.small .modal-dialog  {width:300px; max-width: 100%}
+.small .modal-dialog  {width:300px; max-width: 100%}
+#pdfFrame {top:-5%;}
+}
+/*Jarvis widget z-index when full color (biar g nabrak modal*/
+#jarviswidget-fullscreen-mode {
+    /* changed from 999999 */
+    z-index: 1000
+}
+/*Jquery Autocomplete z-index*/
+.ui-autocomplete {
+    z-index:5000 !important;
+}
+/* datatables create new record on surat tugas */
+.widget-toolbar a .btn {
+    margin-top: -3px;
+    font-size: 13px!important;
+    padding: 0 8px!important;
+}
+.widget-toolbar .onoffswitch-container {
+    margin-top: -10px;
+}
+
+.widget-toolbar-left .btn,.widget-toolbar-left a, .widget-toolbar-left div  {
+    margin-top: -2px;
+    font-size: 13px!important;
+    padding: 5px 8px!important;
+}
+.widget-toolbar-left{
+    display:inline-block;
+    float:left;
+    width:auto;
+    height:32px;
+    line-height:32px;
+    position:relative;
+    border-left:1px solid rgba(0,0,0,.09);
+    cursor:pointer;
+    padding:0 8px;
+    text-align:center;
+}
+.jarviswidget > header > h2 {
+    margin-right:8px;
+}
+/* datatables refresh icons */
+#dt-table-refresh {
+    display:inline-block;
+    width:auto;
+    height:32px;
+    line-height:32px;
+    position:relative;
+    border-left:1px solid rgba(0,0,0,.09);
+    cursor:pointer;
+    padding:0 8px;
+    margin-right: -8px;
+    text-align:center;
+}
+/* fix potition for style*/
+div.demo {
+  position: fixed;
+  top:53px;
+}
+.login-info img {
+    border-radius: 50% 0;
+    height: 25px;
+}
+.smart-form input[readonly],
+.smart-form input[disabled],
+.smart-form select[readonly],
+.smart-form select[disabled],
+.smart-form textarea[readonly],
+.smart-form textarea[disabled] {
+    cursor: not-allowed;
+    background-color: #eeeeee;
+}
+
+/* set logo top margin */
+#logo {
+    margin-top: 2px;
+}
+
+/*table header align (middle center) */
+.table>caption+thead>tr:first-child>td, .table>caption+thead>tr:first-child>th, .table>colgroup+thead>tr:first-child>td, .table>colgroup+thead>tr:first-child>th, .table>thead:first-child>tr:first-child>td, .table>thead:first-child>tr:first-child>th {
+    text-align: center;;
+    vertical-align: middle;
+}
+
+/*Error State For Register Form Only*/
+div.state-error input
+{
+  background: #fff0f0;
+  border-color: #A90329;
+}
+em.invalid
+{
+  display: block;
+  padding: 0 1px;
+  font-style: normal;
+  font-size: 11px;
+  line-height: 15px;
+  color: #D56161;
+}
+
+/* margin right for badge on menu*/
+.margin-right-13 {
+    margin-right: 13px!important
+}
+
+/* for datatables key select */
+table.dataTable th.focus,table.dataTable td.focus{outline:3px solid #3366FF;outline-offset:-1px}
