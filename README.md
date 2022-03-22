@@ -1,3 +1,4 @@
+<!---
 Laravel with SmartAdmin frontend based on Encore/laravel-admin
 =======
 
@@ -58,3 +59,4 @@ php artisan admin:install
 ```
 
 Open http://localhost/[your_laravel_project_name] in browser,use username admin and password admin to login.
+-->
